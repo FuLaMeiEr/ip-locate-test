@@ -1,0 +1,7 @@
+server:
+  port: 8081
+
+
+ip-locate:
+  enabled: true
+  file-path: C:\Users\Wahaha\Downloads\IP_trial_2020M05_single_WGS84_dat\IP_trial_2020M05_single_WGS84.dat
